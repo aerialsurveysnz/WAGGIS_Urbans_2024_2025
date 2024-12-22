@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "name": "HCC_Urban_2024_2025 - Imagery_Centres",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "xy_coordinate_resolution": 1e-15,
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Project": "PGRM3032",
+                "Company_Name": "Tasman DC",
+                "SN_No": "SN14247",
+                "Description": "Tasman Riverbed - 2022 1320 m AMGL Flying & orthos",
+                "OrthoGSD_m": 0.075,
+                "PointDensity_(points/m2)": null,
+                "Area": 107.06611806907148,
+                "Percentage_Coverage": 100.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.931891978086071,
+                    -41.220590362197207
+                ]
+            }
+        }
+    ]
+}
