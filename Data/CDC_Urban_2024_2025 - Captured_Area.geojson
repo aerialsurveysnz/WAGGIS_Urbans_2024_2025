@@ -12,17 +12,12 @@
         {
             "type": "Feature",
             "properties": {
-                "NZTOPO50": "BP34",
-                "TILE": null,
-                "TA": "CDC",
-                "Project": "PGRM3032",
-                "layer": "Fixed geometries",
-                "path": "MultiPolygon?crs=EPSG:2193&field=NZTOPO50:string(10,0)&field=TILE:string(10,0)&field=TA:string(4,0)&field=Project:string(10,0)&uid={8d488b1f-2347-40e8-898e-a1007ae1ed22}",
-                "SN_No": "Tasman DC",
+                "Proj_Name": "Carterton 7.5cm",
+                "Survey_Typ": "Imagery",
+                "Project": "PGRM3237",
                 "Company_Name": "SN14247",
-                "Description": "Tasman Riverbed - 2022 1320 m AMGL Flying & orthos",
-                "Area": 0,
-                "Percentage_Coverage": 0
+                "Area": 30.230025964594237,
+                "Percentage_Coverage": 100.0
             },
             "geometry": {
                 "type": "MultiPolygon",
