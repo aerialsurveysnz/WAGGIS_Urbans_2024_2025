@@ -12,13 +12,13 @@
         {
             "type": "Feature",
             "properties": {
-                "TILENAME": "RGB_BQ32_500_001050",
-                "HCC": "HCC_RGB_BQ32_500_001050",
-                "Shape_Leng": 1200.0,
-                "Shape_Area": 86400.0,
-                "Project": "PGRM3032",
-                "Area": 0,
-                "Percentage_Coverage": 0
+                "Proj_Name": "Hutt City 7.5cm",
+                "Survey_Typ": "Imagery",
+                "Project": "PGRM3231",
+                "Company_Name": "SN14247",
+                "Description": "Tasman Riverbed - 2022 1320 m AMGL Flying & orthos",
+                "Area": 107.06611806907148,
+                "Percentage_Coverage": 100.0
             },
             "geometry": {
                 "type": "MultiPolygon",

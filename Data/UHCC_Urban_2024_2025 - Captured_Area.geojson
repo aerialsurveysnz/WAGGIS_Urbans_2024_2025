@@ -12,13 +12,13 @@
         {
             "type": "Feature",
             "properties": {
-                "index_tile": "BQ32_500_001052",
-                "sheet_code": "BQ32",
-                "scale": 500,
-                "tile": "001052",
-                "Project": "PGRM3032",
-                "Area": 0,
-                "Percentage_Coverage": 0
+                "Proj_Name": "Upper Hutt City 7.5cm",
+                "Survey_Typ": "Imagery",
+                "Project": "PGRM3234",
+                "Company_Name": "SN14247",
+                "Description": "Tasman Riverbed - 2022 1320 m AMGL Flying & orthos",
+                "Area": 38.709548908146196,
+                "Percentage_Coverage": 100.0
             },
             "geometry": {
                 "type": "MultiPolygon",
