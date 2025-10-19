@@ -19,8 +19,8 @@
                 "Shape_Leng": 1200.0,
                 "Shape_Area": 86400.0,
                 "Project": "PGRM3032",
-                "Area": 0,
-                "Percentage_Coverage": 0
+                "Area": 85.89,
+                "Percentage_Coverage": 100
             },
             "geometry": {
                 "type": "MultiPolygon",
