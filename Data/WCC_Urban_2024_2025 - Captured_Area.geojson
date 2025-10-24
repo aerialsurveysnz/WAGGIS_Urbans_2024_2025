@@ -13,8 +13,8 @@
             "type": "Feature",
             "properties": {
                 "Project": "PGRM3206",
-                "Area": 0,
-                "Percentage_Coverage": 0
+                "Area": 174.57,
+                "Percentage_Coverage": 100
             },
             "geometry": {
                 "type": "MultiPolygon",
